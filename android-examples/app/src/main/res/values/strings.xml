@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">com.randalvance.androidexamples</string>
+    <string-array name="examples">
+        <item>External Intents</item>
+    </string-array>
+</resources>
